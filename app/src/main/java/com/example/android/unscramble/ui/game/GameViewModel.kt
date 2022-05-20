@@ -25,11 +25,6 @@ class GameViewModel : ViewModel() {
     private val wordsList: MutableList<String> = mutableListOf()
     private lateinit var currentWord: String
 
-    override fun onCleared() {
-        super.onCleared()
-        Log.d("GameFragment", "GameViewModel destroyed")
-    }
-
     /**
      * Updates currentWord and _currentScrambledWord with the next word.
      */
