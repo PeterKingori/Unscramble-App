@@ -1,6 +1,6 @@
 # Project: Unscramble App
 Unscramble is  a single player game app that displays scrambled words. It's used in the [Android Basics with Kotlin]
-(https://developer.android.com/courses/android-basics-kotlin/course) course to teach how to use the Architecture components ViewModel and LiveData.
+(https://developer.android.com/courses/android-basics-kotlin/course) course to demonstrate the Android Architecture components ViewModel and LiveData. It also shows how to use Data Binding with LiveData.
 
 ## Getting Started
 1. Install Android Studio, if you don't already have it.
@@ -8,7 +8,7 @@ Unscramble is  a single player game app that displays scrambled words. It's used
 3. Import the app into Android Studio.
 4. Build and run the app.
 
-### Pre-requisites
+## Pre-requisites
 1. Java Development Kit
 2. Git version control for cloning the repo from Github.
 3. Android Studio
