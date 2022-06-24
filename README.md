@@ -20,6 +20,8 @@ Unscramble is  a single player game app that displays scrambled words. It's used
 
 ## Screenshots
 ![screenshot1](app/src/main/res/drawable/unscramble1.jpg)
+![screenshot1](app/src/main/res/drawable/unscramble2.jpg)
+![screenshot1](app/src/main/res/drawable/unscramble3.jpg)
 
 License
 -------
