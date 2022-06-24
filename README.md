@@ -18,6 +18,9 @@ Unscramble is  a single player game app that displays scrambled words. It's used
 2. Android Studio
 3. Material Design
 
+## Screenshots
+![screenshot1](app/src/main/res/drawable/unscramble1.jpg)
+
 License
 -------
 
